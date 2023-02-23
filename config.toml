@@ -1,4 +1,4 @@
-baseURL = 'http://tamarindo.org/'
+baseURL = 'https://scassiano.github.io/pruebapagina'
 languageCode = 'es-la'
 title = 'Mi nuevo Hugo sitio'
 theme = 'ananke'
