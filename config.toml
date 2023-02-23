@@ -1,4 +1,4 @@
-baseURL = 'https://scassiano.github.io/pruebapagina'
+baseURL = 'https://scassiano.github.io/'
 languageCode = 'es-la'
 title = 'Mi nuevo Hugo sitio'
 theme = 'ananke'
