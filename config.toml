@@ -1,0 +1,4 @@
+baseURL = 'http://tamarindo.org/'
+languageCode = 'es-la'
+title = 'Mi nuevo Hugo sitio'
+theme = 'ananke'
